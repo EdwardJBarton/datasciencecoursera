@@ -1,2 +1,2 @@
 # datasciencecoursera
-Respo for Coursera DataScience course submissions
+Repo for Coursera DataScience course submissions
